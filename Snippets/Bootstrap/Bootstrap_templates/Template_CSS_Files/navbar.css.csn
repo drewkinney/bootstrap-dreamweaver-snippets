@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="navbar.css" description="" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[body {
+padding: 30px;
+}
+
+.navbar {
+margin-bottom: 30px;
+}]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

@@ -1,0 +1,3 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="navbar-static-top.css" description="" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[.jumbotron {
+margin-top: 30px;
+}]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

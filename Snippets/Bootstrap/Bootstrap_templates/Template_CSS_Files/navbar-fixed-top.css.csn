@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="navbar-fixed-top.css" description="" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[body {
+padding-top: 60px;
+}
+
+.jumbotron {
+margin-top: 20px;
+}]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>
