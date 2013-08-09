@@ -1,7 +1,7 @@
 bootstrap-dreamweaver-snippets
 ==============================
 
-<h1>Bootstarp templates as Dreamweaver Snippets</h1>
+<h1>Bootstrap 3.0.0 RC1 templates as Dreamweaver Snippets</h1>
 
 Download the *.zip file
 
