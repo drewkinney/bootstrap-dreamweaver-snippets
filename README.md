@@ -19,3 +19,7 @@ If yu have custom snippets copy the 'bootstrap' folder, inside the extracted 'sn
 
 This path will be similar to this:
 /Users/drewkinney/Library/Application Support/Adobe/Dreamweaver CS6/en_US/Configuration/snippets/bootstrap
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/drewkinney/bootstrap-dreamweaver-snippets/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
