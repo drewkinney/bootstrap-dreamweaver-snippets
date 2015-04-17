@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="Button Sizes" description="Bootstrap 3.3.4 Button Sizes" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[<p>
+  <button type="button" class="btn btn-primary btn-lg">Large button</button>
+  <button type="button" class="btn btn-default btn-lg">Large button</button>
+</p>
+<p>
+  <button type="button" class="btn btn-primary">Default button</button>
+  <button type="button" class="btn btn-default">Default button</button>
+</p>
+<p>
+  <button type="button" class="btn btn-primary btn-sm">Small button</button>
+  <button type="button" class="btn btn-default btn-sm">Small button</button>
+</p>
+<p>
+  <button type="button" class="btn btn-primary btn-xs">Extra small button</button>
+  <button type="button" class="btn btn-default btn-xs">Extra small button</button>
+</p>]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>
